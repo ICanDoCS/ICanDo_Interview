@@ -1,6 +1,6 @@
-# Part 02 Database
+# Part 01 Database
 
-Made by. [이소희](https://github.com/ICanDoCS/ICanDo_Interview/01.database/lsh) [정명지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/phb) [조수민](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/lyj) [이상윤](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/hsh)
+Made by. [이소희](https://github.com/ICanDoCS/ICanDo_Interview/01.database/lsh) [정명지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/phb) [조수민](https://github.com/ChoSooMin) [이상윤](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/hsh)
 
 ## [Database]()
 

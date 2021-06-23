@@ -32,8 +32,6 @@ Made by. [이소희](https://github.com/ICanDoCS/ICanDo_Interview/01.database/ls
 
 #### 💡 정규화를 왜 진행하나요?
 
-#### 💡 정규화를 왜 진행하나요?
-
 #### 💡 제 3정규형까지설명해주세요.
 
 #### 💡 데이터의 중복을 피할수있는데 역정규화는 왜실행하나요? / 모든 테이블에 정규화를 진행하나요?
@@ -45,18 +43,6 @@ Made by. [이소희](https://github.com/ICanDoCS/ICanDo_Interview/01.database/ls
 ## [RDBMS/NoSQL]()
 
 #### 💡 데이터 모델링이 무엇인가요?
-
-## Normalization
-
-#### 💡 정규화를 왜 진행하나요?
-
-#### 💡 모든 테이블에 정규화를 진행하나요?
-
-#### 💡 이상현상에 대해 설명하시오.
-
-#### 💡 정규화 단계별 과정에 대해 설명하시오.
-
-## RDBMS/NoSQL
 
 #### 💡 관계형 데이터베이스의 특징
 
@@ -103,4 +89,3 @@ Made by. [이소희](https://github.com/ICanDoCS/ICanDo_Interview/01.database/ls
 #### 💡 Index는 어디에 사용하는게 좋아요?
 
 #### 💡 Index 사용 시 장단점과 사용하면 좋은 경우와 나쁜 경우에 대해 설명하시오.
-

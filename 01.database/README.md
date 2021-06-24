@@ -28,7 +28,7 @@ Made by. [이소희](https://github.com/ICanDoCS/ICanDo_Interview/01.database/ls
 
 #### 💡 트랜잭션이란 무엇이고 특성에 대해 설명하시오.
 
-#### 트랜잭션의 격리 레벨
+#### 💡 트랜잭션의 격리 레벨
 
 #### 💡 교착상태(Deadlock)란 무엇인가?
 
@@ -42,12 +42,8 @@ Made by. [이소희](https://github.com/ICanDoCS/ICanDo_Interview/01.database/ls
 
 #### 💡 Index 사용 시 장단점과 사용하면 좋은 경우와 나쁜 경우에 대해 설명하시오.
 
-#### 💡 Index의 자료구조는 어떤 것을 사용하나요?
-
 #### 💡 Index를 따로 설정하지 않은 경우의 테이블은 어떤가요?
 
 #### 💡 모든 칼럼에 Index를 사용하면 좋나요?
 
 #### 💡 Index는 어디에 사용하는게 좋아요?
-
-#### 💡 Index 사용 시 장단점과 사용하면 좋은 경우와 나쁜 경우에 대해 설명하시오.

@@ -2,7 +2,7 @@
 
 
 
-## [Database](01.database/csm/Database.md)
+## [Database](https://github.com/ICanDoCS/ICanDo_Interview/edit/main/01.database/csm/Database.md)
 
 #### 💡File (파일처리 시스템) vs DBMS(일반적인 RDBMS)
 

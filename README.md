@@ -7,7 +7,7 @@
 
 
 
-방식 참조
+**방식 참조**
 
-https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md
+###### https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md
 

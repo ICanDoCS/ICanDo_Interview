@@ -5,9 +5,9 @@
 
 * **순서**: 데이터베이스 -> 운영체제 -> 네트워크 -> JAVA (1주일에 하나씩)
 
+<br>
 
 
-**방식 참조**
 
-###### https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md
+###### https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md (참조)
 

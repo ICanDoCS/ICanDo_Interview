@@ -43,11 +43,11 @@
 
   아래와 같은 테이블이 있을 때, 추신수와 박세리는 여러 개의 취미를 갖고 있다. 즉, 원자값이 아니다.
 
-  ![Normalization_1](/Users/soomin/Desktop/Study/ICanDo_Interview/01.database/csm/src/Normalization_1.png)
+  ![Normalization_1](./src/Normalization_1.png)
 
   정규화 후에는 아래와 같이 하나의 값을 갖도록 바뀐다.
 
-  ![Normalization_1_after](/Users/soomin/Desktop/Study/ICanDo_Interview/01.database/csm/src/Normalization_1_after.png)
+  ![Normalization_1_after](./src/Normalization_1_after.png)
 
   
 
@@ -70,13 +70,13 @@
 
 ​		그렇기 때문에 아래 테이블의 경우 기존 테이블에서 강의실을 분해하여 별도의 테이블로 관리하면 완전 함수 종속을 만족하고, 제2 정규형을 만족하게 된다.
 
-​		![Normalization_2](/Users/soomin/Desktop/Study/ICanDo_Interview/01.database/csm/src/Normalization_2.png)
+​		![Normalization_2](./src/Normalization_2.png)
 
 ​	
 
 ​		제2 정규화 후에는 아래와 같이 바뀐다.
 
-​	![Normalization_2_after](/Users/soomin/Desktop/Study/ICanDo_Interview/01.database/csm/src/Normalization_2_after.png)
+​	![Normalization_2_after](./src/Normalization_2_after.png)
 
 
 
@@ -90,7 +90,7 @@
 
 ​		다음과 같은 테이블이 있다.
 
-​		![Normalization_3](/Users/soomin/Desktop/Study/ICanDo_Interview/01.database/csm/src/Normalization_3.png)
+​		![Normalization_3](./src/Normalization_3.png)
 
 ​		학생 번호는 강좌 이름을 결정하고 있고, 강좌 이름은 수강료를 결정하고 있다.
 
@@ -102,7 +102,7 @@
 
 
 
-![Normalization_3_after](/Users/soomin/Desktop/Study/ICanDo_Interview/01.database/csm/src/Normalization_3_after.png)
+![Normalization_3_after](./src/Normalization_3_after.png)
 
 
 

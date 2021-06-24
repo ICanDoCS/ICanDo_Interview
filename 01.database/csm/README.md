@@ -12,7 +12,7 @@
 
 
 
-## Normalization
+## [Normalization](https://github.com/ICanDoCS/ICanDo_Interview/blob/main/01.database/csm/Normalization.md)
 
 #### 💡정규화를 왜 진행하나요?
 

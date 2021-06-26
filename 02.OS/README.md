@@ -1,8 +1,8 @@
 # Part 03. Operating System
 
-<br>
-
 [**Reference**](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/03.Operating_system)
+
+<br>
 
 ## Process & Thread
 

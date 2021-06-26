@@ -26,7 +26,7 @@
 
 
 
-## [RDBMS / NoSQL](./RDBMS, NoSQL.md)
+## [RDBMS / NoSQL](./RDBMS,NoSQL.md)
 
 #### 💡관계형 데이터베이스의 특징
 

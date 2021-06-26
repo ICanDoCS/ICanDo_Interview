@@ -2,7 +2,7 @@
 
 
 
-## [Database](https://github.com/ICanDoCS/ICanDo_Interview/blob/main/01.database/csm/Database.md)
+## [Database](./Database.md)
 
 #### 💡File (파일처리 시스템) vs DBMS(일반적인 RDBMS)
 
@@ -12,7 +12,7 @@
 
 
 
-## [Normalization](https://github.com/ICanDoCS/ICanDo_Interview/blob/main/01.database/csm/Normalization.md)
+## [Normalization](./Normalization.md)
 
 #### 💡정규화를 왜 진행하나요?
 
@@ -26,7 +26,7 @@
 
 
 
-## RDBMS / NoSQL
+## [RDBMS / NoSQL](./RDBMS, NoSQL.md)
 
 #### 💡관계형 데이터베이스의 특징
 

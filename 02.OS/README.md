@@ -1,4 +1,4 @@
-# Part 03. Operating System
+# Part 02. Operating System
 
 [**Reference**](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/03.Operating_system)
 

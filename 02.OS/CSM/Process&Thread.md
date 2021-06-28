@@ -62,7 +62,7 @@
 
 - 프로세스의 특정한 수행 경로. 즉, 프로세스가 할당받은 자원을 이용하는 실행의 단위이다.
 
-  ![Process&Thread_Thread](/Users/soomin/Desktop/Study/ICanDo_Interview/02.OS/CSM/src/Process&Thread_Thread.png)
+  ![Process&Thread_Thread](./src/Process&Thread_Thread.png)
 
 - 스레드는 프로세스 내에서 각각 Stack만 따로 할당받고 Code, Data, Heap 영역은 공유한다.
 - 스레드는 한 프로세스 내에서 동작되는 여러 실행의 흐름으로, 프로세스 내의 주소 공간이나 자원들(힙 공간 등)을 같은 프로세스 내에 스레드끼리 공유하면서 실행된다.

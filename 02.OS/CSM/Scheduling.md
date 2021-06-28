@@ -71,7 +71,7 @@
 
 - 프로세스가 대기 큐에 도착한 순서에 따라 CPU를 할당
 
-  ![Scheduling_FIFO](/Users/soomin/Desktop/Study/ICanDo_Interview/02.OS/CSM/src/Scheduling_FIFO.jpeg)
+  ![Scheduling_FIFO](./src/Scheduling_FIFO.jpeg)
 
 <br>
 
@@ -85,7 +85,7 @@
 
 - 에이징 기법 (Aging) : 기아 현상을 해결하기 위해 오래 기다린 프로세스의 우선순위를 높여주는 기법
 
-  ![Scheduling_SJF](/Users/soomin/Desktop/Study/ICanDo_Interview/02.OS/CSM/src/Scheduling_SJF.jpeg)
+  ![Scheduling_SJF](./src/Scheduling_SJF.jpeg)
 
 <br>
 
@@ -97,7 +97,7 @@
 
 - SJF와 Aging 기법을 합쳐 SJF의 약점인 기아 현상을 보완한 기법이다. 긴 작업과 짧은 작업 간의 불평등을 완화한다.
 
-  ![Scheduling_HRN](/Users/soomin/Desktop/Study/ICanDo_Interview/02.OS/CSM/src/Scheduling_HRN.jpeg)
+  ![Scheduling_HRN](./src/Scheduling_HRN.jpeg)
 
   > P1과 P2가 들어오는 시점에는 대기 중인 프로세스가 없으므로 바로 실행한다.
   >
@@ -138,7 +138,7 @@
 
 - 균등한 CPU 점유 시간을 보장하고, **시분할 시스템**을 사용한다.
 
-  ![Scheduling_RR](/Users/soomin/Desktop/Study/ICanDo_Interview/02.OS/CSM/src/Scheduling_RR.jpeg)
+  ![Scheduling_RR](./src/Scheduling_RR.jpeg)
 
 <br>
 

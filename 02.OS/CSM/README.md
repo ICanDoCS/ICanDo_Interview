@@ -20,13 +20,13 @@
 
 <br>
 
-## Scheduling
+## [Scheduling](./Scheduling.md)
 
 #### 💡 Context Switching이 뭐에요?
 
 #### 💡 비선점방식과 선점방식을 설명해주세요.
 
-#### 💡 비선점 방식 FIFO, SJR, HRN의 차이
+#### 💡 비선점 방식 FIFO, SJF, HRN의 차이
 
 #### 💡 선점 방식 SRT, RR 차이
 

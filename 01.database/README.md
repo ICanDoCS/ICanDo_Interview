@@ -1,20 +1,26 @@
 # Part 01 Database
 
-Made by. [이소희](https://github.com/ICanDoCS/ICanDo_Interview/01.database/lsh) [정명지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/phb) [조수민](https://github.com/ChoSooMin) [이상윤](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/hsh)
+<br>
 
-## [Database]()
+[**Reference**](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database)
+
+## Database
 
 #### 💡 File vs DBMS
 
 #### 💡 Schema가 무엇인가요?
 
-## [Normalization]()
+<br>
+
+## Normalization
 
 #### 💡 정규화를 왜 진행하나요?
 
 #### 💡 데이터의 중복을 피할수있는데 역정규화는 왜실행하나요? / 모든 테이블에 정규화를 진행하나요?
 
 #### 💡 정규화 단계별 과정에 대해 설명하시오.
+
+<br>
 
 ## RDBMS/NoSQL
 
@@ -24,7 +30,9 @@ Made by. [이소희](https://github.com/ICanDoCS/ICanDo_Interview/01.database/ls
 
 #### 💡 SQL과 NoSQL의 차이점에 대해 설명하시오.
 
-## [Transaction]()
+<br>
+
+## Transaction
 
 #### 💡 트랜잭션이란 무엇이고 특성에 대해 설명하시오.
 
@@ -34,7 +42,9 @@ Made by. [이소희](https://github.com/ICanDoCS/ICanDo_Interview/01.database/ls
 
 #### 💡 교착상태의 해결 방법
 
-## [Index]()
+<br>
+
+## Index
 
 #### 💡 Index란 무엇인가?
 

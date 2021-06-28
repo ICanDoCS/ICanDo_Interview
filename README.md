@@ -9,5 +9,4 @@
 
 
 
-###### https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md (참조)
-
+###### https://github.com/SSAFY-CS-STUDY/Tech_interview (참조)

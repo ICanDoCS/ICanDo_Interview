@@ -58,3 +58,5 @@
 [파일 시스템](https://hackforus.tistory.com/1)
 
 [캐시와 레지스터의 차이](http://melonicedlatte.com/computer/2018/11/07/190754.html)
+
+[캐시 메모리](https://12bme.tistory.com/402)

@@ -4,7 +4,7 @@
 
 <br>
 
-## Process & Thread
+## [Process & Thread](./Process&Thread.md)
 
 #### 💡 프로세스와 스레드에 차이는 무엇인가?
 
@@ -20,19 +20,19 @@
 
 <br>
 
-## Scheduling
+## [Scheduling](./Scheduling.md)
 
 #### 💡 Context Switching이 뭐에요?
 
 #### 💡 비선점방식과 선점방식을 설명해주세요.
 
-#### 💡 비선점 방식 FIFO, SJR, HRN의 차이
+#### 💡 비선점 방식 FIFO, SJF, HRN의 차이
 
 #### 💡 선점 방식 SRT, RR 차이
 
 <br>
 
-## 메모리 관리 전략
+## [메모리 관리 전략](./Memory_Management_Strategy.md)
 
 #### 💡 교착상태 vs 기아상태
 
@@ -50,7 +50,7 @@
 
 <br>
 
-## 캐시
+## [캐시](./Cache.md)
 
 #### 💡 Cache Miss 종류
 
@@ -65,9 +65,8 @@
 
 <br>
 
-## 심화
+## [심화](./Deep.md)
 
 #### 💡 파일 시스템이란
 
 #### 💡 캐시와 레지스터의 차이점은 무엇인가요?
-

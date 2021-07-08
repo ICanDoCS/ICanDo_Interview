@@ -20,7 +20,7 @@
 
 <br>
 
-## TCP와 UDP
+## [TCP와 UDP](./TCP&UDP.md)
 
 #### 💡 TCP와 UDP의 특징과 차이점을 설명해주세요.
 
@@ -34,7 +34,7 @@
 
 <br>
 
-## HTTP와 HTTPS
+## [HTTP와 HTTPS](./HTTP&HTTPS.md)
 
 #### 💡 HTTP와 HTTPS를 설명해주세요
 

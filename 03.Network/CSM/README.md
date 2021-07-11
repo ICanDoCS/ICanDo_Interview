@@ -74,7 +74,7 @@
 
 ## 01-2. Web of Network Overview
 
-## WEB
+## [WEB](./WEB.md)
 
 #### 💡 url과 uri에 대해 각각 설명해주세요  
 

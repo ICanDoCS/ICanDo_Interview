@@ -183,7 +183,7 @@ Cache-Aside는 **Look Aside(=Lazy Loading)**라고도 한다.
 
   
 
-![캐싱 전략](image/1*b2t2aF7ODiI-DovHGUc7Kw.png)
+![캐싱 전략](image/read-through.png)
 
 
 

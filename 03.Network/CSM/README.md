@@ -100,7 +100,7 @@
 
 <br>
 
-## cookie와 session
+## [cookie와 session](./cookie&session.md)
 
 #### 💡 cookie와 session에 대해 설명해주세요  
 

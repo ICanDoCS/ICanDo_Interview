@@ -14,7 +14,7 @@
 
 <br>
 
-## JAVA
+## [JAVA](./JAVA.md)
 
 #### 💡 JVM의 JVM 구조는?
 

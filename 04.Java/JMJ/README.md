@@ -33,17 +33,26 @@
 #### 💡 오버로딩과 오버라이딩에 대해 설명하시오.
 
 1. **공통점**
+
    - 같은 이름의 다른 함수를 호출
+
 2. **차이점**
+
    - 오버로딩(Overloading)
+
      - 메소드의 이름과  return 타입은 동일하지만, 매개변수의 인자의 수나 자료형이 다른 메소드를 만드는 것을 의미
+
    - 오버라이딩(Overriding)
+
      - 상위 클래스 혹은 인터페이스에 존재하는 메소드를 하위 클래스에서 필요에 맞게 재정의하는 것을 의미
+
      - 상속 관계에 있는 클래스 간에 같은 이름의 메서드 정의
+
+       
 
 #### 💡 객체지향 설계 5원칙(중요도 낮음)
 
-> SOILD 원칙
+> SOILD 원칙, 디자인패턴과 연관된 원칙들
 
 1. SRP(단일 책임 원칙)
    - 모든 클래스는 각각 하나의 책임만 가져야 한다. 클래스는 그 책임을 완전히 캡슐화해야 함
@@ -101,7 +110,7 @@
 3. Excuse engine
 
    - Load된 Class의 ByteCode를 실행하는 Runtime Module
-   - Class Loader를 통해 JVM 내의 Runtime Data Areas 에 배치된 바이트 코드는 Executin Engine에 의해 실행되며, 실행 엔진은 자바 바이트 코드를 명령어 단위로 읽어서 실행합니다.
+   - Class Loader를 통해 JVM 내의 Runtime Data Areas 에 배치된 바이트 코드는 Execution Engine에 의해 실행되며, 실행 엔진은 자바 바이트 코드를 명령어 단위로 읽어서 실행합니다.
 
 #### 💡 Java의 GC, 가비지 콜렉터의 작동 방식은 무엇인가요?
 
@@ -350,12 +359,25 @@ public static void main(String[] args)
 > Java 에서 문자열을 다루를 대표적인 클래스로 **String ,** **StringBuffer**, **StringBuilder**가 있다.
 
 - String과 StringBuilder, StringBuffer의 차이점
+
   - String 객체는 한번 생성되면 할당된 공간이 변하지 않지만 StringBuffer나 StringBuilder의 경우 객체의 공간이 부족해지는 경우 버퍼의 크기를 유연하게 늘려준다. String은 불변(immutable)하고 StringBuffer와 StringBuilder는 가변(mutable)한 특징을 가진다.
+
 - StringBuilder, StringBuffer 클래스 사용의 장점
+
   - String은 **크기가 고정**되어 있기 때문에 **내부의 문자열을 수정할 수 없다**. 그렇기에 문자열을 수정할 때마다 새로운 문자열을 리턴한다.
   - 두 클래스는 내부 Buffer에 문자열을 저장해두고 그 안에서 추가, 수정, 삭제 작업을 할 수 있도록 설계되어 있다. 그렇기에 String처럼 새로운 객체를 만들지 않고도 문자열을 수정할 수 있다.
     - 문자열을 변경하는 작업이 많을 경우에는 String을 사용하는 것보다 StringBuffer나 StringBuilder를 사용하는 것이 좋다.
+
+  > StringBuffer는 **멀티스레드 환경**에서 Synchronized 키워드가 가능하기 때문에 동기화가 가능해 스레드 세이프 함.
+  >
+  > StringBuilder는 스레드 세이프하지 않음. 동기화를 신경쓰지 않기 때문에 단일 스레드 환경에서 더 빠른 연산처리를 원하는 경우 사용하는 것이 좋음
+  >
+  > > **Synchronized**
+  > >
+  > > 자바에서 동기화 구현을 위해 사용하는 키워드입니다. 이 키워드를 사용했을 때, 해당 객체에 lock이 걸리면 다른 스레드들이 현재 작업중인 스레드의 작업이 종료될 때까지 대기상태가 됩니다. 여러스레드에서 한 객체에 접근하는 것을 막기 위해 사용합니다.
+
 - String 클래스 장점
+
   - StringBuilder, StringBuffer 클래스보다 속도가 빠르다.
 
 
@@ -411,6 +433,8 @@ public static void main(String[] args)
 
 https://velog.io/@ednadev/3.-%EC%9E%90%EB%B0%94-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-exception-handling
 
+https://sjh836.tistory.com/122
+
 
 
 #### 💡 Collection 정의와 종류를 말씀해주세요
@@ -452,6 +476,8 @@ LinkedList는 데이터를 저장하는 각 노드가 이전 노드와 다음 �
 ![img](https://lh4.googleusercontent.com/cWFQD2vsXtCSXgw6N94UQT0nfZUa0SzBs4UfCbJwOImmz6MxUSPeYLRqH8tK6X7cHtrLcl0d7g6LFrb6kXYzuBLekOOA47RBXUH7vekVYvN4unKJvzSDPL81G2xRF3NBAQ)
 
 ArrayList와 같이 데이터의 추가, 삭제시 불필요한 데이터의 복사가 없어 데이터의 추가, 삭제시에 유리한 반면 데이터의 검색시에는 처음부터 노드를 순회해야 하기 때문에 성능상 불리하다. 
+
+> Vector 동기화 가능, 속도가 느리다. 멀티스레딩할때만 사용
 
 
 

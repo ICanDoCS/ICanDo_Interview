@@ -1,7 +1,5 @@
 # Part 05. Spring
 
-<br>
-
 #### 💡 JDBC는 무엇인가요?
 
 #### 💡 Servlet이란 무엇인가요?

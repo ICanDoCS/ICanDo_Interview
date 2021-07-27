@@ -1,4 +1,8 @@
+# Part 03. Network
 
+[**Reference**](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/01.network)
+
+<br>
 
 ## [OSI 7 layers와 TCP/IP 4 layer](#osi-7-layers와-tcpip-4-layers-답변)
 #### 💡 OSI 7 Layer 또는 TCP/IP Layer와 각 계층에 대한 설명을 해주세요.

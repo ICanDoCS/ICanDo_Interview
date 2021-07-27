@@ -1,33 +1,35 @@
-# Part 05.Spring
+# Part 05. Spring
 
-#### JDBC는 무엇인가요?
+<br>
 
-#### Servlet이란 무엇인가요?
+#### 💡 JDBC는 무엇인가요?
 
-#### JSP란 무엇인가?
+#### 💡 Servlet이란 무엇인가요?
 
-#### pojo는 무엇인가요??
+#### 💡 JSP란 무엇인가?
 
-#### Spring AOP란?
+#### 💡 pojo는 무엇인가요?
 
-#### Spring DI란?
+#### 💡 Spring AOP란?
 
-#### Spring IOC란 무엇인가?
+#### 💡 Spring DI란?
 
-#### Spring MVC 흐름에 대한 설명
+#### 💡 Spring IOC란 무엇인가?
 
-#### Spring MVC1과 MVC2의 차이점은?
+#### 💡 Spring MVC 흐름에 대한 설명
 
-#### Spring과 Spring Boot의 차이점은??
+#### 💡 Spring MVC1과 MVC2의 차이점은?
 
-#### DAO와 DTO의 차이점은?
+#### 💡 Spring과 Spring Boot의 차이점은?
 
-#### Mybatis란 무엇인가?
+#### 💡 DAO와 DTO의 차이점은?
 
-#### MyBatis와 Spring JPA의 장단점
+#### 💡 Mybatis란 무엇인가?
 
-#### Spring Bean 주입 방법
+#### 💡 MyBatis와 Spring JPA의 장단점
 
-#### Web Server과 WAS의 차이점
+#### 💡 Spring Bean 주입 방법
 
-#### JAR과 WAR의 차이점
+#### 💡 Web Server과 WAS의 차이점
+
+#### 💡 JAR과 WAR의 차이점

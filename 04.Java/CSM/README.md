@@ -1,4 +1,6 @@
-# Part 01 Database
+# Part 04. Java
+
+[**Reference**](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/04.Java)
 
 <br>
 
